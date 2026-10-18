@@ -1,0 +1,6 @@
+Student,Math,Physics,Chemistry,ComputerScience
+Aarav,85,90,78,92
+Priya,65,70,60,55
+Rahul,95,88,97,93
+Sneha,72,68,75,70
+Kabir,88,82,90,85
