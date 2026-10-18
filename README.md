@@ -32,7 +32,7 @@ python main.py
 Make sure data.txt is present in the project directory and follows the expected CSV format.
 
 ## Example input
-![Program Iutput](sccreenshots/input.png)
+![Program Input](sccreenshots/input.png)
 
 ## Example output
 ![Program Output](screenshots/output.png)
