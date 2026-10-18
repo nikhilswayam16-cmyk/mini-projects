@@ -32,10 +32,10 @@ python main.py
 Make sure data.txt is present in the project directory and follows the expected CSV format.
 
 ## Example input
-![Program Iutput](sccreenshots/input.jpg)
+![Program Iutput](sccreenshots/input.png)
 
 ## Example output
-![Program Output](screenshots/output.jpg)
+![Program Output](screenshots/output.png)
  
 ## Concepts Used:
 - Used Numpy .mean()
